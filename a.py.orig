@@ -1,0 +1,6 @@
+print("This is a sample ")
+<<<<<<< HEAD
+print ("Train Hooks")
+
+=======
+>>>>>>> parent of 5ad6c20... DEv1 change
